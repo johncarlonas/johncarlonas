@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/TradingView_Logo.png" width="40" height="40" title="Pine Script"/>
+  <img src="https://www.svgrepo.com/show/303416/pine-script.svg" width="40" height="40" alt="Pine Script"/>
 </p>
 
 ### 🌐 Frontend

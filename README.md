@@ -10,8 +10,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 ### 🎨 Design
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
@@ -42,7 +40,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johncarlonas&show_icons=true&theme=radical)

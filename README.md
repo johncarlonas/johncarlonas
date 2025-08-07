@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm John Carlo!
 - 🌟 **Aspiring Blockchain Developer**
-- 🎓 Computer Science student currently looking for an internship
+- 🎓 Computer Science student
 - 🌱 Continuously improving my dev and problem-solving skills
 - 🤝 Open to collaborating on exciting and meaningful projects
 - 💻 Explore my [GitHub projects](https://github.com/johncarlonas?tab=repositories)

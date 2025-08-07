@@ -5,7 +5,7 @@
 - 🤝 Open to collaborating on exciting and meaningful projects
 - 💻 Explore my [GitHub projects](https://github.com/johncarlonas?tab=repositories)
 - 📫 Reach me at: johncarlonas@gmail.com
-- 🚀 Currently diving deeper into: **Web3**, **Blockchain**, and **Smart Contracts**
+- 🚀 Currently diving deeper into: **Web3** and **Blockchain**
 
 ---
 

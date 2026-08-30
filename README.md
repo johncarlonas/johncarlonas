@@ -1,11 +1,11 @@
 # Hey there, I'm John Carlo!
-- **Aspiring Data Engineer**
+
 - Computer Science student
 - Continuously improving my dev and problem-solving skills
 - Open to collaborating on exciting and meaningful projects
 - Explore my [GitHub projects](https://github.com/johncarlonas?tab=repositories)
 - Reach me at: johncarlonas@gmail.com
-- Currently diving deeper into: **Data Analytics**
+- Currently diving deeper into: **Mobile App Development**
 
 ---
 

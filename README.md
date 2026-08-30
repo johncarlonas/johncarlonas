@@ -5,7 +5,7 @@
 - Open to collaborating on exciting and meaningful projects
 - Explore my [GitHub projects](https://github.com/johncarlonas?tab=repositories)
 - Reach me at: johncarlonas@gmail.com
-- Currently diving deeper into: **Mobile App Development**
+- Currently diving deeper into: **Efficient Agentic Coding**
 
 ---
 

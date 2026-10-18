@@ -17,7 +17,7 @@ I enjoy turning ideas into working products, experimenting with new technologies
 - Currently diving deeper into **Efficient Agentic Coding**
 ---
 
-<p>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
@@ -47,5 +47,4 @@ I enjoy turning ideas into working products, experimenting with new technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" />
-</p>
 

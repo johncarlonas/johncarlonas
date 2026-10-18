@@ -7,7 +7,7 @@
 
 I enjoy turning ideas into working products, experimenting with new technologies, and learning through building.
 
-[**Portfolio**](https://johncarlonas.me) &nbsp;·&nbsp; [**Email**](mailto:johncarlonas@gmail.com)
+[**John Carlo Nas | Portfolio**](https://johncarlonas.me)
 
 </div>
 
